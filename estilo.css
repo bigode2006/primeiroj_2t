@@ -105,7 +105,7 @@ li a:hover {
 #Bacate {
    width: 50%;
 }
-caixaBacate {
+caixaBanana {
     position: absolute;
     top: 45px;
     background: #7CFC00;
@@ -119,7 +119,7 @@ caixaBacate {
     display: flex;
     justify-content: left;
 }
-caixaBacate2 {
+caixaBanana2 {
   position: absolute;
   top: 100px;
   right: 0;
@@ -128,7 +128,7 @@ caixaBacate2 {
   display: flex;
   justify-content: right;
 }
-.caixaBacate3 {
+.caixaBanana3 {
   position: absolute;
   top: 300px;
   right: 500px;
@@ -137,7 +137,7 @@ caixaBacate2 {
   display: flex;
   justify-content: center;
 }
-.caixaAbacate{
+.caixaBanana{
   position: absolute;
   top: 150px;
   right: 300px;
